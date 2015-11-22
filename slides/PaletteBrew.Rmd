@@ -35,7 +35,7 @@ output:
 - Then it performs [*k*-means clustering] on the RGB values with *k* set to
   the number of colors specified by the user.
 - Then it takes the centers of the resulting clusters as the color palette, and
-  uses the [`palettewidget`] HTML widget [^1] to display them.
+  uses the [`palettewidget`] HTML widget to display them.
 - `palettewidget` was written specifically for **PaletteBrew**.
 
 
