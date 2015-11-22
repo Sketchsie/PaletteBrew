@@ -1,0 +1,23 @@
+#main-screenshot img {
+  height: 400px;
+}
+
+#nighthawks img {
+  height: 320px;
+}
+
+div.palette {
+  font-size: 14px;
+}
+
+div.palette > ul {
+  list-style: none !important;
+}
+
+div.palette > ul > li {
+  list-style: none !important;
+}
+
+div.palette > ul > li:before {
+  content: none;
+}
